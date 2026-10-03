@@ -47,7 +47,7 @@ In subsequent sections are **left uninitialized** (garbage). I know this is a no
 
 # Usage
 ## Example
-```
+```c
 #include "ini_parser.h"
 int main(void)
 {
